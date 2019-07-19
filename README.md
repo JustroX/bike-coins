@@ -4,6 +4,7 @@ Node JS blockchain implementation. This project is just for fun and should never
 (Useless) tribute to my friends at 🚲 group.
 
 ## Roadmap
-[] Establish protocol
-[] Miner Nodes
-[] Wallet Nodes
+
+- [ ] Establish protocol
+- [ ] Miner Nodes
+- [ ] Wallet Nodes
