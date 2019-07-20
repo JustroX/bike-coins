@@ -1,0 +1,22 @@
+{
+  "name": "bike-coins",
+  "version": "1.0.0",
+  "description": "Bike Coins",
+  "main": "core.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JustroX/bike-coins.git"
+  },
+  "author": "Justine Che T. Romero",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JustroX/bike-coins/issues"
+  },
+  "homepage": "https://github.com/JustroX/bike-coins#readme",
+  "dependencies": {
+    "sha256": "^0.2.0"
+  }
+}
