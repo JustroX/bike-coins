@@ -5,6 +5,11 @@ Node JS blockchain implementation. This project is just for fun and should never
 
 ## Roadmap
 
+- [ ] P2P connection
+- [ ] Transaction Pool ( Merkle )
+- [ ] Bike coin CLI
 - [ ] Establish protocol
 - [ ] Miner Nodes
 - [ ] Wallet Nodes
+- [ ] Branches (?) 
+- [ ] Integrate with ngrok.
